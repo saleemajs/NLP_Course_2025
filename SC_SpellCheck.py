@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
+import nltk
 from nltk.corpus import words, brown
 from collections import Counter
-import nltk
 import re
 
 # Download necessary corpora
